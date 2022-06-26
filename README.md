@@ -1,10 +1,10 @@
 # Ptecnica
-API conectada a una base de datos redi, para el monitoreo de métricas de un dispositivo eléctrico.
+API conectada a una base de datos redis, para el monitoreo de métricas de un dispositivo eléctrico.
 
 ![Captura desde 2022-06-23 01-12-10](https://user-images.githubusercontent.com/103941398/175227855-5694eaa6-9918-486a-aa75-76e6e75a1dcb.png)
 
 
-Ejecucion
+Ejecución:
 Se usa una base de datos redi online, de la pagina https://upstash.com/
 se debe crear una db alli y luego remplazar los datos obtenidos de la creacion de la base de datos para python en connection.py
 
